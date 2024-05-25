@@ -36,8 +36,6 @@ This project provides a ZIO-based wrapper for Linux I/O and memory management fu
 
 - **LinuxMemoryService.scala** provides ZIO-based services for memory operations.
 
-- **LinuxIOServiceSpec.scala** contains tests for the LinuxIOService.
-
 ## Usage example
 Here is an example of how to use the Linux I/O and Memory services in your ZIO application:
 
